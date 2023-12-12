@@ -1,4 +1,4 @@
-[![Businessman Trading](https://www.istockphoto.com/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept-gm1311598658-400654264)](https://www.istockphoto.com/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept-gm1311598658-400654264)
+[![Man Wearing VR Glasses](https://www.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_19265130.htm#query=technology&position=2&from_view=keyword&track=sph&uuid=335a7f13-bd92-484a-8cbd-607aca0bbfac)](https://www.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_19265130.htm#query=technology&position=2&from_view=keyword&track=sph&uuid=335a7f13-bd92-484a-8cbd-607aca0bbfac)
 <h1 align="center">Hi 👋, I'm Dhanujaya Yapabandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
