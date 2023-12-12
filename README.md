@@ -1,5 +1,5 @@
 
-<img src="https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c" alt="Man Wearing VR Glasses" height="200">
+<img src="https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c" alt="Man Wearing VR Glasses" width="300" height="200">
 
 <h1 lign="center">Hi 👋, I'm Dhanujaya Yapabandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
