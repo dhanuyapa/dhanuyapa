@@ -1,5 +1,6 @@
-[![Man Wearing VR Glasses](https://www.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_19265130.htm#query=technology&position=2&from_view=keyword&track=sph&uuid=335a7f13-bd92-484a-8cbd-607aca0bbfac)](https://www.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_19265130.htm#query=technology&position=2&from_view=keyword&track=sph&uuid=335a7f13-bd92-484a-8cbd-607aca0bbfac)
-<h1 align="center">Hi 👋, I'm Dhanujaya Yapabandara</h1>
+
+<h1 align="ce![medium-shot-man-wearing-vr-glasses](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/ec08deee-5cc2-4a07-8ca4-9d1cbc4c78fc)
+nter">Hi 👋, I'm Dhanujaya Yapabandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanuyapa" alt="dhanuyapa" /></a> </p>
