@@ -1,5 +1,7 @@
 
- [![Man Wearing VR Glasses](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c)](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c)
+[![Man Wearing VR Glasses](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c)](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c)
+<img src="https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c" alt="Man Wearing VR Glasses" height="100">
+
 <h1 lign="center">Hi 👋, I'm Dhanujaya Yapabandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
