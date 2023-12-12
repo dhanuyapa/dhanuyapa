@@ -1,6 +1,6 @@
 
-<h1 align="ce![medium-shot-man-wearing-vr-glasses](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/ec08deee-5cc2-4a07-8ca4-9d1cbc4c78fc)
-nter">Hi 👋, I'm Dhanujaya Yapabandara</h1>
+ [![Man Wearing VR Glasses](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c)](https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c)
+<h1 lign="center">Hi 👋, I'm Dhanujaya Yapabandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanuyapa" alt="dhanuyapa" /></a> </p>
