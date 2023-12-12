@@ -1,3 +1,4 @@
+[![Businessman Trading](https://www.istockphoto.com/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept-gm1311598658-400654264)](https://www.istockphoto.com/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept-gm1311598658-400654264)
 <h1 align="center">Hi 👋, I'm Dhanujaya Yapabandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
