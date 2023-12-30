@@ -1,5 +1,5 @@
 
-<img src="https://github.com/dhanuyapa/dhanuyapa/assets/96159272/0cbdd782-a8f6-454f-be39-e6e9e24ffb1c" alt="Man Wearing VR Glasses" width="1000" height="200">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhanujaya Yapabandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
