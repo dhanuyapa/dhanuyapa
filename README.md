@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 <p align="left"> 
-  <img src="https://profile-counter.glitch.me/{dhanuyapa}/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/{YOUR_GITHUB_USERNAME}/count.svg" alt="Profile Views" />
+  <span><b>Profile Views</b></span>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
